@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-parent-page",
+    "description": "Front-end-plugin som returnerar förälder-sida",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
