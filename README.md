@@ -10,6 +10,13 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-parent-
 Denna plugin skapar en array() med förälder-sidan
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
+```sh
+LICENSE (https://github.com/RegionHalland/region-halland-parent-page/blob/master/LICENSE)
+```
+
 ## Installation och aktivering
 
 ```sh
@@ -116,6 +123,10 @@ array (size=30)
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Uppdaterat med information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.0.0
 - Första version
