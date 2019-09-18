@@ -124,6 +124,9 @@ array (size=30)
 
 ## Versionhistorik
 
+### 1.2.0
+- Lagt till funktion för att hämta ut sajtnamn som sidan föräldrer
+
 ### 1.1.0
 - Uppdaterat med information om licensmodell
 - Bifogat fil med licensmodell
